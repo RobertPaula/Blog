@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertPaula/Blog.git"
+  },
+  "author": "Robert Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertPaula/Blog/issues"
+  },
+  "homepage": "https://github.com/RobertPaula/Blog#readme"
+}
