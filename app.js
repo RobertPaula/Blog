@@ -23,7 +23,7 @@ app.use(express.static("public"));
 // });
 
 app.get('/', (req, res) => {
-   res.render('about');
+   res.render('home', {firstParagraph : homeStartingContent});
 });
 
    // port heroku or local on 4000
